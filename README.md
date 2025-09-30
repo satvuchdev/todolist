@@ -30,6 +30,26 @@ cd todolist-console
 # Запустить приложение
 python main.py
 ```
+## 💡 Как пользоваться
+1. Зарегистрируйте нового пользователя или войдите в систему
+2. Создайте списки задач для разных проектов
+3. Добавляйте задачи с указанием приоритета и сроков
+4. Организуйте задачи с помощью категорий
+5. Делитесь списками с другими пользователями
+6. Используйте подзадачи и комментарии для лучшей организации
+
+## 🗃 Структура базы данных
+- Приложение использует реляционную базу данных SQLite со следующими основными таблицами:
+- **users** - пользователи системы
+- **tasklists** - списки задач
+- **tasks** - задачи
+- **shared_tasklists** - общий доступ к спискам
+- **categories** - категории задач
+- **comments** - комментарии к задачам
+- **subtasks** - подзадачи
+
+## 👨💻 Автор
+- **satvuchdev**
 
 #
 
@@ -56,11 +76,29 @@ A simple console application for task management, written in Python using SQLite
 ## 📦 Installation and Run
 
 ```bash
-# Clone Repository
 git clone https://github.com/satvuchdev/todolist.git
 
-# Go to project directory
 cd todolist-console
 
-# Run the application
 python main.py
+```
+## 💡 How to use
+1. Register a new user or log in
+2. Create task lists for different projects
+3. Add tasks with priority and due dates
+4. Organize tasks using categories
+5. Share lists with other users
+6. Use subtasks and comments for better organization
+
+## 🗃 Database structure
+- The app uses a relational SQLite database with the following main tables:
+- **users** - system users
+- **tasklists** - task lists
+- **tasks** - tasks
+- **shared_tasklists** - shared lists
+- **categories** - task categories
+- **comments** - task comments
+- **subtasks** - subtasks
+
+## 👨💻 Author
+- **satvuchdev**
