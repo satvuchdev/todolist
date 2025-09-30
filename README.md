@@ -23,7 +23,7 @@
 
 ```bash
 # Клонировать репозиторий
-git clone https://github.com/satvuchdev/todolist
+git clone https://github.com/satvuchdev/todolist.git
 
 # Перейти в директорию проекта
 cd todolist-console
