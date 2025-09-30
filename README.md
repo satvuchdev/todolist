@@ -1,5 +1,4 @@
-# ToDoList Console App
-
+## RUS Description
 Простое консольное приложение для управления задачами, написанное на Python с использованием SQLite.
 
 ## 🚀 Возможности
@@ -29,4 +28,39 @@ git clone https://github.com/satvuchdev/todolist.git
 cd todolist-console
 
 # Запустить приложение
+python main.py
+```
+
+#
+
+## ENG Description
+A simple console application for task management, written in Python using SQLite.
+
+## 🚀 Features
+
+- **🔐 Authentication** - registration and login
+- **📝 Task Management** - creation, editing, and tracking
+- **📂 Organization** - task lists, categories, and priorities
+- **👥 Collaboration** - sharing lists with different permission levels
+- **💬 Comments** - task discussions
+- **⏰ Reminders** - setting due dates
+- **🔗 Subtasks** - breaking down complex tasks into steps
+
+## 🛠 What's Used
+
+- Python 3
+- SQLite3
+- SHA-256 for password hashing
+- UUID for ID generation
+
+## 📦 Installation and Run
+
+```bash
+# Clone Repository
+git clone https://github.com/satvuchdev/todolist.git
+
+# Go to project directory
+cd todolist-console
+
+# Run the application
 python main.py
