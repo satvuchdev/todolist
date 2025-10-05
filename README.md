@@ -36,9 +36,9 @@ pip install PySide6
 
 ### 3️⃣ Структура проекта
 📦 todolist_app/
- ┣ 📜 main.py                # Бэкенд: база данных и логика
- ┣ 📜 gui_full_checkable.py  # Фронтенд: графический интерфейс PySide6
- ┗ 🗄️ todolist.db            # База SQLite (создаётся автоматически)
+- ┣ 📜 main.py                # Бэкенд: база данных и логика
+- ┣ 📜 gui_full_checkable.py  # Фронтенд: графический интерфейс PySide6
+- ┗ 🗄️ todolist.db            # База SQLite (создаётся автоматически)
 
 ### 4️⃣ Запуск приложения
 ``` bash
@@ -93,9 +93,9 @@ pip install PySide6
 
 ### 3️⃣ Project structure
 📦 todolist_app/
-┣ 📜 main.py # Backend: database and logic
-┣ 📜 gui_full_checkable.py # Frontend: PySide6 GUI
-┗ 🗄️ todolist.db # SQLite database (created automatically)
+- ┣ 📜 main.py # Backend: database and logic
+- ┣ 📜 gui_full_checkable.py # Frontend: PySide6 GUI
+- ┗ 🗄️ todolist.db # SQLite database (created automatically)
 
 ### 4️⃣ Run the application
 ``` bash
