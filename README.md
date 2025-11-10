@@ -77,7 +77,7 @@ Author: **satvuchdev**
 
 ---
 
-## 🧩 Installation and Runtime (RUSSIAN)
+## 🧩 Installation and Runtime (ENGLISH)
 
 ### 1️⃣ Install Python
 Requires **Python 3.9 or higher**.
